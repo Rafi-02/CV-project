@@ -1,2 +1,2 @@
 # CV-project
- https://rafi75.github.io/CV-project/
+ https://rafi-02.github.io/CV-project/
